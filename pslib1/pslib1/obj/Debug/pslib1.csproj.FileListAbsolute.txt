@@ -1,0 +1,10 @@
+D:\Projects 15\Power Saving\pslib1\pslib1\bin\Debug\pslib1.dll
+D:\Projects 15\Power Saving\pslib1\pslib1\bin\Debug\pslib1.pdb
+D:\Projects 15\Power Saving\pslib1\pslib1\obj\Debug\pslib1.dll
+D:\Projects 15\Power Saving\pslib1\pslib1\obj\Debug\pslib1.pdb
+D:\Projects 15\Power Saving\pslib1\pslib1\obj\Debug\pslib1.csprojResolveAssemblyReference.cache
+E:\final pro st1\pslib1\pslib1\bin\Debug\pslib1.dll
+E:\final pro st1\pslib1\pslib1\bin\Debug\pslib1.pdb
+E:\final pro st1\pslib1\pslib1\obj\Debug\pslib1.csprojResolveAssemblyReference.cache
+E:\final pro st1\pslib1\pslib1\obj\Debug\pslib1.dll
+E:\final pro st1\pslib1\pslib1\obj\Debug\pslib1.pdb

@@ -1,0 +1,60 @@
+D:\Projects 15\Power Saving\Proxy1\Proxy1\bin\Debug\Proxy1.exe
+D:\Projects 15\Power Saving\Proxy1\Proxy1\bin\Debug\Proxy1.pdb
+D:\Projects 15\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Form1.resources
+D:\Projects 15\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Properties.Resources.resources
+D:\Projects 15\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.csproj.GenerateResource.Cache
+D:\Projects 15\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.exe
+D:\Projects 15\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.pdb
+D:\Projects 15\Power Saving\Proxy1\Proxy1\bin\Debug\pslib1.dll
+D:\Projects 15\Power Saving\Proxy1\Proxy1\bin\Debug\pslib1.pdb
+D:\Projects 15\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.csprojResolveAssemblyReference.cache
+D:\Projects 15\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.AddDC.resources
+D:\Projects 15\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.SendRequest.resources
+D:\Projects 15\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.RequestRedirection.resources
+E:\suresh\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.exe
+E:\suresh\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.pdb
+E:\suresh\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.csprojResolveAssemblyReference.cache
+E:\suresh\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.AddDC.resources
+E:\suresh\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Form1.resources
+E:\suresh\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Properties.Resources.resources
+E:\suresh\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.RequestRedirection.resources
+E:\suresh\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.SendRequest.resources
+E:\suresh\Power Saving\Proxy1\Proxy1\obj\x86\Debug\Proxy1.csproj.GenerateResource.Cache
+E:\suresh\Power Saving\Proxy1\Proxy1\bin\Debug\Proxy1.exe
+E:\suresh\Power Saving\Proxy1\Proxy1\bin\Debug\Proxy1.pdb
+E:\suresh\Power Saving\Proxy1\Proxy1\bin\Debug\NetworkComputers.dll
+E:\suresh\Power Saving\Proxy1\Proxy1\bin\Debug\pslib1.dll
+E:\suresh\Power Saving\Proxy1\Proxy1\bin\Debug\pslib1.pdb
+E:\final pro st1\Proxy1\Proxy1\bin\Debug\Proxy1.exe
+E:\final pro st1\Proxy1\Proxy1\bin\Debug\Proxy1.pdb
+E:\final pro st1\Proxy1\Proxy1\bin\Debug\pslib1.dll
+E:\final pro st1\Proxy1\Proxy1\bin\Debug\pslib1.pdb
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.AddDC.resources
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.SendRequest2.resources
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Form1.resources
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Form2.resources
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Properties.Resources.resources
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.SendRequest.resources
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Settings.resources
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.ViewResponse.resources
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.csproj.GenerateResource.Cache
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.exe
+E:\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.pdb
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.exe
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.pdb
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\bin\Debug\Proxy1.exe
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\bin\Debug\Proxy1.pdb
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\bin\Debug\pslib1.dll
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\bin\Debug\pslib1.pdb
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.csprojResolveAssemblyReference.cache
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.AddDC.resources
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.SendRequest2.resources
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Form1.resources
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Form2.resources
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Properties.Resources.resources
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.SendRequest.resources
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.Settings.resources
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.ViewResponse.resources
+D:\Projects 15\Power Saving\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.csproj.GenerateResource.Cache
+D:\Project\Final Project\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.exe
+D:\Project\Final Project\final pro st1\Proxy1\Proxy1\obj\x86\Debug\Proxy1.pdb
